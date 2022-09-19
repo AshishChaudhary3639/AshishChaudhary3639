@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Chaudhary</h1>
+<div align="center">
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="profile-img" width="90%" height="320vh" margin="auto"/>
 <br/>
 <br/>
@@ -11,24 +12,26 @@
 
 <p align=left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishchaudhary3639" alt="ashishchaudhary3639" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Development**
+<div aligh="left">
+ 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Software Development**
+ 🌱 I’m currently learning **Software Development**
 
-- 👯 I’m looking to collaborate on **MERN Development**
+ 👯 I’m looking to collaborate on **MERN Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AshishChaudhary3639](https://github.com/AshishChaudhary3639)
+ 👨‍💻 All of my projects are available at [https://github.com/AshishChaudhary3639](https://github.com/AshishChaudhary3639)
 
-- 💬 Ask me about **Full Stack Development**
+ 💬 Ask me about **Full Stack Development**
 
-- 📫 How to reach me **https://ashishchaudhary3639.github.io/**
-
-
+ 📫 How to reach me **https://ashishchaudhary3639.github.io/**
+</div>
+<div align="center" padding="30px">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ashish-chaudhary-216b23186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashish-chaudhary-216b23186/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/ashishchaudhar11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ashishchaudhar11" height="30" width="40" /></a>
 </p>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -42,5 +45,5 @@
 <p align="left" width="100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishchaudhary3639&" alt="ashishchaudhary3639" /></p>
 
 
-
+</div>
 
