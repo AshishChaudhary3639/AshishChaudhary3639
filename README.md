@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Chaudhary</h1>
-<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="profile-img" width="90%"/>
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="profile-img" width="90%" heigth="50rem"/>
 <br/>
 <br/>
 <p align="center">I am very passionate in software filed from my school time. I have sound understanding computer fundamental, Data structure, programming languages and framework/library. Currently I am enjoying wonder full technology learning and new things in software development.</p>
