@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**AshishChaudhary3639/AshishChaudhary3639** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I am very passionate in software filed from my school time. I have sound understanding computer fundamental, Data structure, programming languages and framework/library. Currently I am enjoying wonder full technology learning and new things in software development.
 
 Here are some ideas to get you started:
 
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Web development
 - 📫 How to reach me: ... https://ashishchaudhary3639.github.io/
 
--->
+
